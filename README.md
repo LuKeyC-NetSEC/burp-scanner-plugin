@@ -30,7 +30,7 @@ A Burp Suite extension for automated detection of Log4j RCE, Apache Shiro, Fastj
 
 ### Option 1: Download Pre-built JAR
 
-Download the latest release from the [Releases](https://github.com/your-repo/burp-scanner-plugin/releases) page.
+Download the latest release from the [Releases](https://github.com/LuKeyC-NetSEC/burp-scanner-plugin/releases) page.
 
 ### Option 2: Build from Source
 
