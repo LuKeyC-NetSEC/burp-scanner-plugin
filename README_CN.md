@@ -30,7 +30,7 @@
 
 ### 方式一：下载预构建 JAR
 
-从 [Releases](https://github.com/your-repo/burp-scanner-plugin/releases) 页面下载最新版本。
+从 [Releases](https://github.com/LuKeyC-NetSEC/burp-scanner-plugin/releases)页面下载最新版本。
 
 ### 方式二：源码构建
 
